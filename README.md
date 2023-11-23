@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gabrielwillianfb
-- 👀 I’m interested in HTML, CSS, JavaScript, React, Angular, NodeJS, TypeScript
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in HTML, CSS, JavaScript, Angular, TypeScript
+- 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me webpages@duck.com
 
 <!---
