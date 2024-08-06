@@ -1,6 +1,6 @@
 # Olá! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35">
 
-#### Sou um estudante de desenvolvimento web que mora no brasil.
+### Sou um estudante de desenvolvimento web que mora no brasil.
 
 - 🙎🏻‍♂️ Sou um estudante independente
 - 🤷🏻‍♂️ Pronomes Ele/Dele
@@ -12,18 +12,18 @@
 - [Página de casamentos](https://github.com/gabrielwillianfb/Landing-Page-MaisPraTi) | Empresa que realiza cerimonias matrimoniais.
 - [Clone HBO Max](https://github.com/gabrielwillianfb/Clone-HBO-Max) | Cópia simples da versão antiga do site da HBO Max; todos os direitos reservados.
  
-#### Sistema operacional
+### Sistema operacional
 
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
 
-#### Entre em contato
+### Entre em contato
 
 <a href="https://www.linkedin.com/in/gabrielwillianfb/"><image src="https://img.shields.io/badge/LinkedIn-%230059ef.svg?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/gabrielwillianfb/"><image src="https://img.shields.io/badge/Instagram-%23df05a7.svg?style=flat&logo=instagram&logoColor=white">
 </a>
 
-#### Linguagens e ferramentas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Linguagens e ferramentas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/HTML_5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS_3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
