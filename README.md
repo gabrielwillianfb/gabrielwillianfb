@@ -3,7 +3,6 @@
 ### Sou um estudante de desenvolvimento web que mora no brasil.
 
 - 🙎🏻‍♂️ Estudante independente
-- 🤷🏻‍♂️ Pronomes Ele/Dele
 - ☕ Estou em uma jornada para me especializar em programação voltada para a web
 - 🚀 Sinta-se livre para falar comigo sobre desenvolvimento web
  
