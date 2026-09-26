@@ -1,37 +1,38 @@
-# Olá! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35">
+# Olá, me chamo Gabriel 👋
 
-### Sou um estudante de desenvolvimento web que mora no brasil.
+### Software Engineer & Especialista em Hiperautomação de Processos e Sistemas Web
 
-- 🙎🏻‍♂️ Estudante independente
-- ☕ Estou em uma jornada para me especializar em programação voltada para a web
-- 🚀 Sinta-se livre para falar comigo sobre desenvolvimento web
- 
-### Projetos
-- [Portfólio](https://github.com/gabrielwillianfb/Portfolio) | Portfólio pessoal.
-- [Página de casamentos](https://github.com/gabrielwillianfb/Landing-Page-MaisPraTi) | Empresa que realiza cerimonias matrimoniais.
-- [Clone HBO Max](https://github.com/gabrielwillianfb/Clone-HBO-Max) | Cópia simples da versão antiga do site da HBO Max; todos os direitos reservados.
- 
-### Sistema operacional
+Desenvolvo soluções completas de software, desde plataformas corporativas de **hiperautomação (RPA)** e **sistemas web sob medida** até modelos de **Machine Learning e Visão Computacional**. Focado em alta disponibilidade, redução de custos operacionais e arquitetura resiliente.
 
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielwillianfb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.beck03@gmail.com)
 
-### Entre em contato
+---
 
-<a href="https://www.linkedin.com/in/gabrielwillianfb/"><image src="https://img.shields.io/badge/LinkedIn-%230059ef.svg?style=flat&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/gabrielwillianfb/"><image src="https://img.shields.io/badge/Instagram-%23df05a7.svg?style=flat&logo=instagram&logoColor=white">
-</a>
+### 💼 Projetos em Destaque
 
-### Linguagens e ferramentas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **Plataforma de Hiperautomação (RPA)** | Plataforma corporativa para orquestração de robôs, mensageria distribuída, cofre de senhas e métricas de ROI em tempo real. | `Python` `Angular` `RabbitMQ` `HashiCorp Vault` `PostgreSQL` |
+| **NutriPersona AI** | Micro-SaaS completo com quiz interativo, motor de IA para cálculo nutricional, checkout integrado com PIX via webhook e geração dinâmica de PDFs. | `Angular 20` `NestJS 11` `TypeScript` `jsPDF` `Tailwind/CSS` |
+| **Captcha OCR Deep Learning** | Engine de Visão Computacional de alta precisão (CRNN: CNN + BiLSTM + CTC Loss) para reconhecimento ultrarrápido (15ms) de CAPTCHAs ruidosos. | `PyTorch` `Deep Learning` `Python` `Computer Vision` |
+| **Trading AI Platform** | Sistema quantitativo com coleta de dados em tempo real, backend assíncrono resiliente, validação walk-forward e modelos preditivos XGBoost. | `FastAPI` `PostgreSQL 16` `SQLAlchemy Async` `XGBoost` `Docker` |
 
-![HTML5](https://img.shields.io/badge/HTML_5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS_3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%230f172a.svg?&style=flat&logo=tailwindcss&logoColor=%2338bdf8)
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Mongo](https://img.shields.io/badge/MongoDB-%23f7f7f7.svg?style=flat&logo=mongodb&logoColor=%23429543)
+---
+
+### 🛠️ Stack Tecnológica
+
+- **Backend & APIs:** Python (FastAPI, Flask), Node.js (NestJS, Express), TypeScript, arquitetura assíncrona, REST e Webhooks.
+- **Frontend & Interfaces:** Angular (Signals, Standalone), React, TypeScript, Modern Vanilla CSS, Design Systems e Glassmorphism.
+- **Automação & Scraping:** Playwright, Selenium, BeautifulSoup, PyTorch (OCR/Deep Learning), Processamento Assíncrono e Cron ETL.
+- **Banco de Dados & Mensageria:** PostgreSQL (Async/SQLAlchemy), Redis, RabbitMQ.
+- **Segurança & Infraestrutura:** HashiCorp Vault, RBAC, Docker, Docker Compose, Linux e Git.
+
+---
+
+### 🤝 Serviços Disponíveis para Contratação
+- ⚡ **Automação de Processos Empresariais:** Eliminação de tarefas repetitivas, extração de dados e integração entre sistemas legados.
+- 🌐 **Sistemas Web & Dashboards:** Painéis administrativos, portais operacionais e ferramentas sob medida.
+- 📱 **Landing Pages & Sites Comerciais:** Páginas modernas, ultra-rápidas e otimizadas para conversão.
+
+📫 **Quer conversar sobre um projeto ou automação?** Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gabrielwillianfb/) ou Email!
