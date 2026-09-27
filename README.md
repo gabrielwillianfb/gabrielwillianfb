@@ -1,6 +1,6 @@
 # Olá, me chamo Gabriel Willian 👋
 
-### Software Engineer & Especialista em Hiperautomação de Processos e Sistemas Web
+### Desenvolvedor de Software Fullstack | Automação de Processos, Sistemas Web & IA
 
 Desenvolvo soluções completas de software, desde plataformas corporativas de **hiperautomação (RPA)** e **sistemas web sob medida** até modelos de **Machine Learning e Visão Computacional**. Focado em alta disponibilidade, redução de custos operacionais e arquitetura resiliente.
 
