@@ -5,7 +5,7 @@
 Desenvolvo soluções completas de software, desde plataformas corporativas de **hiperautomação (RPA)** e **sistemas web sob medida** até modelos de **Machine Learning e Visão Computacional**. Focado em alta disponibilidade, redução de custos operacionais e arquitetura resiliente.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielwillianfb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAILAQUI@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.beck03@gmail.com)
 
 ---
 
@@ -15,7 +15,7 @@ Desenvolvo soluções completas de software, desde plataformas corporativas de *
 | :--- | :--- | :--- |
 | **Plataforma de Hiperautomação (RPA)** <br> *(Case Corporativo Anonimizado)* | Orquestração de robôs, mensageria assíncrona distribuída, cofre de senhas (Vault) e métricas de ROI em tempo real. | `Python` `Angular` `RabbitMQ` `HashiCorp Vault` `PostgreSQL` |
 | **ConfixBuild — Landing Page Comercial** <br> [Demo Online ↗](https://confixbuild.vercel.app/) | Interface corporativa de alta conversão, micro-interações e animações fluidas com GSAP, alternância Dark/Light mode e BEM CSS. | `React` `Vite` `GSAP` `BEM CSS` `Vercel` |
-| **NutriPersona AI — Micro-SaaS** | Aplicação completa com quiz interativo, motor de IA nutricional, checkout integrado com PIX via webhook e geração dinâmica de PDFs. | `Angular 20` `NestJS 11` `TypeScript` `jsPDF` `Tailwind/CSS` |
+| **NutriPersona AI — Micro-SaaS** <br> [Demo Online ↗](https://gabrielwillianfb.github.io/nutripersona-ai/) | Aplicação completa com quiz interativo, motor de IA nutricional, checkout integrado com PIX via webhook e geração dinâmica de PDFs. | `Angular 20` `NestJS 11` `TypeScript` `jsPDF` `Tailwind/CSS` |
 | **Captcha OCR Deep Learning** | Engine de Visão Computacional de alta precisão (CRNN: CNN + BiLSTM + CTC Loss) para reconhecimento ultrarrápido (15ms) de CAPTCHAs ruidosos. | `PyTorch` `Deep Learning` `Python` `Computer Vision` |
 | **Trading AI Platform** | Sistema quantitativo com coleta de dados em tempo real, backend assíncrono resiliente, validação walk-forward e modelos preditivos XGBoost. | `FastAPI` `PostgreSQL 16` `SQLAlchemy Async` `XGBoost` `Docker` |
 
